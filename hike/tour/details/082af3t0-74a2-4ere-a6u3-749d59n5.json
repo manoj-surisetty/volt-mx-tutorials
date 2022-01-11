@@ -7,7 +7,7 @@
     "fileSize": "50.77 KB",
     "fileName": "createdetailsscreen_v9.zip",
     "fid": 17166,
-    "checksum": "d6822eb3a69611cc40a9c50b91c0e80ac7b755b891bb56d55caf810d9fa52b48",
+    "checksum": "ce7dac518f219b80a906215afa663466414860db65577189bbe3fd29ffbef994",
     "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/create-details-screen-and-add-delete-feature",
     "alias": "hikes/tour/create-details-screen-and-add-delete-feature",
     "description": "Create Details Screen and Add Delete Feature",
@@ -15,7 +15,9 @@
     "cards": 28,
     "time": "30 Mins",
     "platformVersion": "Iris 9.0",
-    "category": [],
+    "category": [
+      "Build Your First Web App"
+    ],
     "image": "/default/hike-default.png",
     "kuid": "082af3t0-74a2-4ere-a6u3-749d59n5",
     "hikeVersion": "1.0",

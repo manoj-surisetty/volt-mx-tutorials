@@ -7,7 +7,7 @@
     "fileSize": "22.53 KB",
     "fileName": "assigndatatothesegmentv9.zip",
     "fid": 17804,
-    "checksum": "b1c734f65085ed894c3bec358388de7f36454442d1e1c362ded49e8b97add2f2",
+    "checksum": "d3d782a2590d61e8224bbec68d0e79b5957f1c7bd968f9a742bf00e236475b36",
     "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/assign-data-segment-0",
     "alias": "hikes/tour/assign-data-segment-0",
     "description": "Learn how to assign data to a Segment widget.",
@@ -15,7 +15,9 @@
     "cards": 13,
     "time": "10 Mins",
     "platformVersion": "Iris 9.0",
-    "category": [],
+    "category": [
+      "Develop the Front End"
+    ],
     "image": "/default/hike-default.png",
     "kuid": "06a5e8td-11a4-41r7-bbua-0696bane",
     "hikeVersion": "1.0",

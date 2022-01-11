@@ -7,7 +7,7 @@
     "fileSize": "23.26 KB",
     "fileName": "flexpropertiesv9.zip",
     "fid": 17802,
-    "checksum": "e16f27e30f21ec549615708f46a74c13a7feaf637d01cd975412500399ce5ee0",
+    "checksum": "bfb1393b4c24ff4270e66459cf470166f9600d9e3e1067acfdfe1bb2e98f4fa6",
     "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/flex-layout-properties-0",
     "alias": "hikes/tour/flex-layout-properties-0",
     "description": "Manage flex layout using properties.",
@@ -15,7 +15,9 @@
     "cards": 15,
     "time": "16 Mins",
     "platformVersion": "Iris 9.0",
-    "category": [],
+    "category": [
+      "Develop the Front End"
+    ],
     "image": "/default/hike-default.png",
     "kuid": "dfa781t7-7ea4-48r2-86u3-6b9465n9",
     "hikeVersion": "1.0",
